@@ -1,0 +1,185 @@
+.image-hero{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.title{
+    font-family: Raleway, sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.subtitle{
+    letter-spacing: 10px;
+}
+
+
+/* jumbotron */
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #76ffff;
+}
+
+span{
+    color: #f9004d;
+}
+
+.nav-link.active{
+    font-weight: 700;
+}
+
+.text-about{
+    text-indent: 30px;
+    text-align: justify;
+   
+}
+
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+
+#contact{
+    background-color: #ffff;
+}
+
+/* skill */
+#skill{
+    height: 100vh;
+}
+
+/* training */
+#training{
+    height: 80vh;
+}
+
+/* about */
+#about{
+    height: 80vh;
+}
+
+/* pendidikan */
+.pendidikan img{
+    width: 200px;
+    border: 5px solid #cccc;
+}
+#pendidikan{
+    height: 80vh;
+}
+
+/* pengalaman */
+.img-fluid{
+    height: 300px;
+    width: 250px;
+    object-fit: cover;
+}
+
+/* laboratory */
+#laboratory{
+    padding: 100px 0;
+}
+.porto{
+    font-size: 40px;
+    color: black;
+}
+.card-laboratory{
+    width: 100%;
+    height: 500px;
+    border-radius: 5px;
+    background-color: rgb(233, 231, 231);
+    padding: 40px;
+    transition: all .2 ease-in;
+}
+.card-laboratory img{
+    width: 70px;
+    height: 70px;
+}
+.circle-icon{
+    width: 70px;
+    height: 70px;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: all .1 ease-in;
+}
+.card-laboratory p{
+    color: rgb(233, 231, 231);
+    font-size: 14px;
+}
+.foto-laboratory img{
+    width: 100%;
+    height: 170px;
+}
+/* hover */
+.card-laboratory:hover{
+    width: 100%;
+    height: 500px;
+    border-radius: 5px;
+    background-color: rgb(63, 135, 138);
+    padding: 40px;
+    transition: all .2 ease-in;
+}
+.card-laboratory:hover .circle-icon{
+    background-color: rgb(49, 49, 49);
+    transition: all .1 ease-in;
+}
+.card-laboratory:hover p{
+    color: black;
+    font-size: 14px;
+    transition: all .1 ease-in;
+}
+/* organization */
+#organization{
+    padding: 100px 0;
+}
+.card-organization{
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    background-color: rgb(233, 231, 231);
+    padding: 40px;
+    transition: all .2 ease-in;
+}
+.card-organization img{
+    width: 70px;
+    height: 70px;
+}
+.circle-icon{
+    width: 70px;
+    height: 70px;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: all .1 ease-in;
+}
+.card-organization p{
+    color: rgb(233, 231, 231);
+    font-size: 14px;
+}
+.foto-organization img{
+    width: 100%;
+    height: 170px;
+}
+/* hover */
+.card-organization:hover{
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    background-color: rgb(63, 135, 138);
+    padding: 40px;
+    transition: all .2 ease-in;
+}
+.card-organization:hover .circle-icon{
+    background-color: rgb(49, 49, 49);
+    transition: all .1 ease-in;
+}
+.card-organization:hover p{
+    color: black;
+    font-size: 14px;
+    transition: all .1 ease-in;
+}
+
+
+#social{
+    padding: 100px 0;
+}
+
